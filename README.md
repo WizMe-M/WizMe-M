@@ -23,6 +23,10 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Statistics:
+
+
+<--
+## GitHub Statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizMe-M&layout=compact&theme=onedark&PAT1)](https://github.com/anuraghazra/github-readme-stats)
+-->
