@@ -24,8 +24,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Statistics:
-
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=WizMe-M&theme=dark)](https://github.com/WizMe-M)
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WizMe-M&theme=onedark)](https://git.io/streak-stats)
 
