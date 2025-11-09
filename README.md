@@ -23,10 +23,27 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## Work Experience 
+
+### MultiSoft Systems 
+
+Have been working from 09.2023 as Backend Dev and DevOps.
+
+Line of business: 
+ - Manufacturer of Cash Register Machines and it's firmware and applications developer
+ - Developer and Integrator of TMS/MDM solution
+
+Tasks:
+ - Long-term support of CRM firmware with netmf, .NET framework and .NET Core 6
+ - Firmware modification for new requirements of the Federal Tax Services (CIS countries)
+ - Development of MDM server (accounting, registering, management, telemetry collecting of CRM)
+ - Development of MDM clients (firmware updates shipment, telemetry collecting, terminal remote management)
+ - Cloud Infrastructure deployment using Terraform 
+ - Integration with external systems and APIs
+ - Business processes automation using Azure DevOps Pipelines
 
 
-<--
 ## GitHub Statistics:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizMe-M&layout=compact&theme=onedark&PAT1)](https://github.com/anuraghazra/github-readme-stats)
--->
+
