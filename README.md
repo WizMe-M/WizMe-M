@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Timkin Maxim</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.NET+app+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.NET+Backend+dev+and+DevOps)](https://git.io/typing-svg)
 
 ![WizMe-M](https://komarev.com/ghpvc/?username=wizme-m&label=PROFILE+VIEWS&color=red&style=plastic)
 
